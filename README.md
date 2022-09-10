@@ -1,2 +1,2 @@
 # Crud_PHP
-enlistado para agregar y borrar
+Enlistado para agregar y borrar
